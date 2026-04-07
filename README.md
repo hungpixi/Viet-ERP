@@ -2,7 +2,7 @@
 
 **Nền tảng ERP mã nguồn mở cho doanh nghiệp Việt Nam / Open-source ERP platform for Vietnamese enterprises**
 
-[![CI/CD](https://github.com/nclamvn/Viet-ERP/actions/workflows/ci.yml/badge.svg)](https://github.com/nclamvn/Viet-ERP/actions/workflows/ci.yml)
+[![CI/CD](https://github.com/hungpixi/Viet-ERP/actions/workflows/ci.yml/badge.svg)](https://github.com/hungpixi/Viet-ERP/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-14+-black?logo=next.js)](https://nextjs.org/)
@@ -156,7 +156,7 @@ Tổng thể / Overall:  ██████████████████�
 ### Cách 1: Một lệnh duy nhất / One command setup
 
 ```bash
-git clone https://github.com/nclamvn/Viet-ERP.git
+git clone https://github.com/hungpixi/Viet-ERP.git
 cd Viet-ERP
 npm run setup     # Cài đặt + Docker + migrate + seed (cross-platform)
 npm run dev       # Khởi động development
@@ -166,7 +166,7 @@ npm run dev       # Khởi động development
 
 ```bash
 # Clone
-git clone https://github.com/nclamvn/Viet-ERP.git
+git clone https://github.com/hungpixi/Viet-ERP.git
 cd Viet-ERP
 
 # Cài đặt thư viện / Install dependencies
@@ -388,5 +388,10 @@ Dự án này được cấp phép theo giấy phép MIT. Xem [LICENSE](./LICENS
 
 ---
 
-Được xây dựng với tâm huyết cho doanh nghiệp Việt Nam.
-Built with care for Vietnamese enterprises.
+<p align="center">
+  <strong>⭐ Được cộng đồng yêu thích, xây dựng với tâm huyết cho doanh nghiệp Việt Nam. / Built with care for Vietnamese enterprises.</strong>
+</p>
+
+<p align="center">
+  Platform Architecture & Adaptation by <a href="https://github.com/hungpixi">hungpixi</a> / <a href="https://comarai.com">comarai.com</a>
+</p>
